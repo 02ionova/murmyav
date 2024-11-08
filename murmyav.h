@@ -10,5 +10,13 @@ class murmyav {
 
 };
 
+class murmyav {
+
+};
+
+class murmyav {
+
+};
+
 
 #endif //MURMYAV_MURMYAV_H
